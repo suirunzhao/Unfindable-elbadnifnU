@@ -7,12 +7,12 @@ import time
 
 #Setup Communication path for arduino
 arduino = serial.Serial(port='/dev/cu.usbmodem14401', baudrate=9600)
-time.sleep(2)
+time.sleep(2) #change the port(14401) showing in your Arduino IDE
 print("Connected to Arduino...")
 
 
-cap = cv2.VideoCapture(0)
-cap.set(3,1280)
+cap = cv2.VideoCapture(0) #When you connect to web camera chage 0 to 1 
+cap.set(3,1280) #display size
 cap.set(4,720)
 
 facemesh = mp.solutions.face_mesh
@@ -36,10 +36,8 @@ while True:
 			arduino.write(data.encode())
 
 			
-	cv2.imshow("window", cv2.flip(me,1))
-
+	cv2.imshow("window", cv2.flip(me,1)) #you can delete this if you do not want to show
 	if cv2.waitKey(1) == 27:
 		cap.release()
 		cv2.destroyAllWindows()
 		break
-
