@@ -7,7 +7,19 @@ Watch https://suirunzhao.com/blog-1/unfindableelbadnifnu-for-physical-computing-
 
 # Code
 
+Python
+
+https://github.com/suirunzhao/Unfindable-elbadnifnU/tree/main/Code(Python)
+
+Arduino
+
+https://github.com/suirunzhao/Unfindable-elbadnifnU/tree/main/Code(Arduino)
+
 # Model
+
+SG90Arm *48
+
+https://github.com/suirunzhao/Unfindable-elbadnifnU/tree/main/Model(ServoMotorArm)
 
 By aaronse/ServoPixelDisplay
 
