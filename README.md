@@ -29,6 +29,9 @@ https://github.com/aaronse/ServoPixelDisplay/blob/main/models/SG90%20Arm%20Angle
 
 ![IMG_4953](https://user-images.githubusercontent.com/102000475/168387721-43c1464c-2c98-4030-9e0e-f6e970ecba35.jpg)
 
+![IMG_4942](https://user-images.githubusercontent.com/102000475/168389761-35490e58-9be4-4c35-b3d1-34149fecbbb1.JPG)
+
+
 
 # Reference and Related Project
 
