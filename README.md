@@ -24,4 +24,4 @@ https://github.com/aaronse/ServoPixelDisplay
 
 "Reflection" - Making of an art installation for Prague Signal Festival, https://www.youtube.com/watch?v=jHo4l41cz8s
 
-https://github.com/julienp17/WaveMirror (reco by https://github.com/scorto)
+https://github.com/julienp17/WaveMirror
