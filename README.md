@@ -10,6 +10,7 @@ Watch https://suirunzhao.com/blog-1/unfindableelbadnifnu-for-physical-computing-
 # Model
 
 By aaronse/ServoPixelDisplay
+
 https://github.com/aaronse/ServoPixelDisplay/blob/main/models/SG90%20Arm%20Angle%2010.stl
 
 # Build
@@ -20,5 +21,7 @@ https://github.com/aaronse/ServoPixelDisplay/blob/main/models/SG90%20Arm%20Angle
 # Reference and Related Project
 
 https://github.com/aaronse/ServoPixelDisplay
+
 "Reflection" - Making of an art installation for Prague Signal Festival, https://www.youtube.com/watch?v=jHo4l41cz8s
+
 https://github.com/julienp17/WaveMirror (reco by https://github.com/scorto)
